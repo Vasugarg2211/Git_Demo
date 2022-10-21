@@ -7,5 +7,5 @@ signed main()
     int a,b;
     cin>>a>>b;
     
-    cout<<a+b<<endl;
+    cout<<(a+b)%10<<endl;
 }
